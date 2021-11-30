@@ -1,0 +1,96 @@
+/*stylesheet*/
+
+@import "footer_style.css";
+
+/*shared styles*/
+.btn-primary, .btn-light {
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3vh;
+    letter-spacing: 0.1em;
+}
+
+/*END*/
+
+
+
+/*index styling*/
+.bg-image {
+    width: 100%;
+    background-size: contain;
+}
+
+.text-block {
+    width: 100%;
+    position: absolute;
+    margin-top: -20%;
+}
+
+.text-block p{
+    text-align: center;
+    color: rgb(59, 59, 59);
+    font-size: 3vw;
+    font-family: 'Lobster', cursive;
+}
+
+/*END*/
+
+
+
+/*about styling*/
+.ourstore {
+    background-color: #FFECCC;
+}
+
+.extra_info {
+    padding: 5% 0 5% 0;
+}
+
+/*END*/
+
+
+/*order style*/
+/*END*/
+
+
+/*contact style*/
+.wrapper_find {
+    background-color: #F2422E;
+  }
+
+  .wrapper_text {
+    text-align: center;
+    padding: 1% 0 1% 0;
+  }
+
+  .wrapper_text h1 {
+    padding-bottom: 2%;
+    color: white;
+  }
+
+  .contact_item {
+      width: 75%;
+      background: transparent;
+      border: none;
+      outline: none;
+      border-bottom: 1px solid black;
+      padding-top: 5%;
+  }
+
+  .text-block2 {
+    width: 100%;
+    position: absolute;
+    margin-top: -12%;
+}
+
+.text-block2 p{
+    text-align: center;
+    color: rgb(59, 59, 59);
+    font-size: 3vw;
+    font-family: 'Lobster', cursive;
+}
+  
+/*END*/
